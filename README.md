@@ -11,7 +11,7 @@ Contact: vranlee@cau.edu.cn. Any questions or discussion are welcome!
 -----
 
 ## Updates
-+ [2023.08.24] We uploaded the abstract of the paper and resources. The full resources will be released soon.
++ [2023.08.31] We uploaded the abstract of the paper and resources. The full resources will be released soon.
 -----
 
 ## Tracking Result Samples
